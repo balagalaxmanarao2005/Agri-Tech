@@ -45,10 +45,10 @@ An innovative agriculture management system that empowers farmers with technolog
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./screenshot1.png)
+![Home](./Screenshots/screenshot1.png)
 
 ### 🔐 Login Page
-![Login](./screenshot2.png)
+![Login](.//Screenshot2.png)
 
 ### 🌦️ Weather Forecast & Crop Info
 ![Weather](./screenshot3.png)
