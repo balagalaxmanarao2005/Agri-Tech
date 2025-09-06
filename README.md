@@ -45,7 +45,7 @@ An innovative agriculture management system that empowers farmers with technolog
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./Screenshot 1.png)
+![Home](./Screenshot1.png)
 
 ### 🔐 Login Page
 ![Login](./Screenshot2.png)
