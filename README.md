@@ -45,27 +45,27 @@ An innovative agriculture management system that empowers farmers with technolog
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./Screenshots/screenshot1.png)
+![Home](./Screenshots/Screenshot%201.PNG)
 
 ### 🔐 Login Page
-![Login](./Screenshots/screenshot2.png)
+![Login](./Screenshots/Screenshot%202.PNG)
 
 ### 🌦️ Weather Forecast & Crop Info
-![Weather](./Screenshots/screenshot3.png)
-![Crop List](./Screenshots/screenshot4.png)
+![Weather](./Screenshots/Screenshot%203.PNG)
+![Crop List](./Screenshots/Screenshot%204.PNG)
 
 ### 🌱 Crop Details
-![Crop Details](./Screenshots/screenshot5.png)
-![Crop Extended](./Screenshots/screenshot6.png)
+![Crop Details](./Screenshots/Screenshot%205.PNG)
+![Crop Extended](./Screenshots/Screenshot%206.PNG)
 
 ### 🛒 Product Store
-![Products](./Screenshots/screenshot7.png)
+![Products](./Screenshots/Screenshot%207.PNG)
 
 ### 🚜 Add Farm
-![Add Farm](./Screenshots/screenshot8.png)
+![Add Farm](./Screenshots/Screenshot%208.PNG)
 
 ### 🌾 Add Crop
-![Add Crop](./Screenshots/screenshot9.png)
+![Add Crop](./Screenshots/Screenshot%209.PNG)
 
 
 ---
