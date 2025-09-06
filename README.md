@@ -36,29 +36,35 @@ It provides real-time monitoring, crop and farm management, weather forecasting,
 
 ---
 
+# 🌾 Agri-Tech
+
+An innovative agriculture management system that empowers farmers with technology to enhance productivity and sustainability.  
+
+---
+
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 ![Home](./Screenshot%201.png)
 
-### Login Page
+### 🔐 Login Page
 ![Login](./Screenshot%202.png)
 
-### Weather & Crop Info
+### 🌦️ Weather Forecast & Crop Info
 ![Weather & Crops](./Screenshot%203.png)
 ![Crop List](./Screenshot%204.png)
 
-### Crop Details
+### 🌱 Crop Details
 ![Crop Details](./Screenshot%205.png)
 ![Crop Extended](./Screenshot%206.png)
 
-### Product Store
+### 🛒 Product Store
 ![Products](./Screenshot%207.png)
 
-### Add Farm
+### 🚜 Add Farm
 ![Add Farm](./Screenshot%208.png)
 
-### Add Crop
+### 🌾 Add Crop
 ![Add Crop](./Screenshot%209.png)
 
 ---
